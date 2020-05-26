@@ -1,0 +1,6 @@
+C:\Users\urban\OneDrive\Desktop\Laba\bin\Debug\Laba.exe.config
+C:\Users\urban\OneDrive\Desktop\Laba\bin\Debug\Laba.exe
+C:\Users\urban\OneDrive\Desktop\Laba\bin\Debug\Laba.pdb
+C:\Users\urban\OneDrive\Desktop\Laba\obj\Debug\Laba.csprojAssemblyReference.cache
+C:\Users\urban\OneDrive\Desktop\Laba\obj\Debug\Laba.exe
+C:\Users\urban\OneDrive\Desktop\Laba\obj\Debug\Laba.pdb
